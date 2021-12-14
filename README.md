@@ -7,7 +7,7 @@ This is analysis of Kickstarter campaigns.  From the data, we have made observat
 ## Theater Campaign Success rates
 From our comparisons, we've found the highest success rates for campaigns in the spring months with a steady decline through the years' end.
 
-![Theater_Outcomes_vs_Launch.png](https://github.com/bktescher/Kickstarter_Analysis/blob/main/Theater_Outcomes_vs_Launch.png)
+!
 
 May and June held the highest success rates with 111 and 100 respectively.  Failures also spike in May (52) and June (49).  This correlates as these months feature the most total entries at 166 and 153 respectively.  Failed campaigns have a fairly tight range, highest 52 and lowest 31.  
 
