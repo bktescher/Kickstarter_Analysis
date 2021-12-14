@@ -19,7 +19,7 @@ Success and Failure rates depend entirely upon the Goal amount:
 Higher goals = higher chances of failure.  
 Lower goals = higher chance of success.  
 
-![Outcomes vs_Goals.png](https://github.com/bktescher/Kickstarter_Analysis/blob/main/Outcomes_vs_Goals.png)
+![Outcomes vs_Goals.png](https://github.com/bktescher/Kickstarter_Analysis/blob/main/Resources/Outcomes%20based%20on%20Goals.png)
 
 In this set of info, we parsed the goal amount in 12 increments ranging from less than $1,000 to Greater than $50,000.  As is turns out, the campaigns with goals set at $20,000 or less were at least 50% successful.  In direct corelation, the failure rates steadily increased with increased goal amounts.  
 
